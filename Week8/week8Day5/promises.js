@@ -83,7 +83,7 @@ fetch('https://javascript.info/article/promise-chaining/user.json')
 
 
 // Make a request for user.json
-fetch('https://github.com/garzarobm/TTSGITHUB2/Week8/Week8Day4/mygithubusers.json')
+fetch('https://github.com/garzarobm/TTSOctober2/Week8/Week8Day4/mygithubusers.json')
 // Load it as json
 .then(response => response.json())
 // Make a request to GitHub
